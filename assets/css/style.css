@@ -263,3 +263,16 @@ section {
 .contact-info a {
     color: #fce138;
 }
+
+.page-title {
+    color: #fce138;
+}
+
+.page-title h2 {
+    display: inline-block;
+    border-bottom: 4px solid #fce138;
+    padding: 0 80px 15px 80x;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+}
